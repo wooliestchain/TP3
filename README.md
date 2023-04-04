@@ -13,3 +13,8 @@ A telephone service management android application.
 It allows the user to connect, make calls and recharge their account from the application.
 It also detects the user's operator and can therefore automatically define the code for recharging the account and consulting the balance.
 These operations being considered as calls, it must first obtain authorization to make calls.
+
+<img src="activity_one.jpg" alt="Page 1">
+
+<img src="activity_two.jpg" alt="Page2">
+
