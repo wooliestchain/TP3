@@ -18,3 +18,8 @@ These operations being considered as calls, it must first obtain authorization t
 
 <img src="activity_two.jpg" alt="Page2">
 
+
+
+
+```bash
+ls
